@@ -1,3 +1,6 @@
+# open_redirect_demo
+A simple example of how an open redirect attack may work. 
+
 Testing for open redirect vulnerabilities in a website should only be done on systems you have permission to test, such as your own web applications or those you have explicit authorization to assess. Unauthorized testing of websites can be illegal and may result in serious consequences. Always obtain permission before conducting any security testing.
 
 Assuming you have permission to test a website, here are some steps you can follow to check for open redirect vulnerabilities:
